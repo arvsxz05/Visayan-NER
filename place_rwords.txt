@@ -1,0 +1,524 @@
+abra
+agusan del norte
+agusan del sur
+aklan
+albay
+antique
+apayao
+aurora 
+basilan
+bataan
+batanes
+batangas
+benguet
+biliran
+bohol
+bukidnon
+bulacan
+cagayan
+camarines norte
+camarines sur
+camiguin
+capiz
+catanduanes
+cavite
+cebu
+compostela valley
+cotabato
+davao del norte
+davao del sur
+davao oriental
+dinagat islands
+eastern samar
+guimaras
+ifugao
+ilocos norte
+ilocos sur
+iloilo
+isabela
+kalinga
+la union
+laguna
+lanao del norte
+lanao del sur
+leyte
+maguindanao
+marinduque
+masbate
+metro manila
+misamis occidental
+misamis oriental
+mountain province
+negros occidental
+negros oriental
+northern samar
+nueva ecija
+nueva vizcaya
+occidental mindoro
+oriental mindoro
+palawan
+pampanga
+pangasinan
+quezon
+quirino
+rizal
+romblon
+samar
+sarangani
+shariff kabunsuan
+siquijor
+sorsogon
+south cotabato
+southern leyte
+sultan kudarat
+sulu
+surigao del norte
+surigao del sur
+tarlac
+tawi-tawi
+zambales
+zamboanga del norte
+zamboanga del sur
+zamboanga sibugay
+bangued 
+boliney 
+bucay 
+bucloc 
+daguioman 
+danglas 
+dolores 
+la paz 
+lacub 
+lagangilang 
+lagayan 
+langiden 
+licuan-baay 
+luba 
+malibcong 
+manabo 
+peñarrubia 
+pidigan 
+pilar 
+sallapadan 
+san isidro 
+san juan 
+san quintin 
+tayum 
+tineg 
+tubo 
+villaviciosa 
+butuan city 
+cabadbaran city
+buenavista 
+carmen 
+jabonga 
+kitcharao 
+las nieves 
+magallanes 
+nasipit 
+remedios t. romualdez 
+santiago 
+tubay 
+bayugan
+bunawan 
+esperanza 
+la paz 
+loreto 
+prosperidad 
+rosario 
+san francisco 
+san luis 
+santa josefa 
+sibagat 
+talacogon 
+trento 
+veruela 
+altavas 
+balete 
+banga 
+batan 
+buruanga 
+ibajay 
+kalibo 
+lezo 
+libacao 
+madalag 
+makato 
+malay 
+malinao 
+nabas 
+new washington 
+numancia 
+tangalan 
+ligao city 
+tabaco city
+bacacay 
+camalig 
+daraga 
+guinobatan 
+jovellar 
+libon 
+malilipot 
+malinao 
+manito 
+oas 
+pio duran 
+polangui 
+rapu-rapu 
+santo domingo 
+tiwi 
+anini-y 
+barbaza 
+belison 
+bugasong 
+caluya 
+culasi 
+hamtic 
+laua-an 
+libertad 
+pandan 
+patnongon 
+san jose 
+san remigio 
+sebaste 
+sibalom 
+tibiao 
+tobias fornier 
+valderrama 
+calanasan 
+conner 
+flora 
+kabugao 
+luna 
+pudtol 
+santa marcela 
+baler
+casiguran 
+dilasag 
+dinalungan 
+dingalan 
+dipaculao 
+maria aurora 
+san luis 
+isabela city 
+lamitan city
+akbar 
+al-barka 
+hadji mohammad aju 
+lantawan 
+maluso 
+sumisip 
+tipo-tipo 
+tuburan 
+ungkaya pukan 
+balanga city
+abucay 
+bagac 
+dinalupihan 
+hermosa 
+limay 
+mariveles 
+morong 
+orani 
+orion 
+pilar 
+samal 
+basco 
+itbayat 
+ivana 
+mahatao 
+sabtang 
+uyugan 
+batangas city 
+lipa city 
+tanauan city
+agoncillo 
+alitagtag 
+balayan 
+balete 
+bauan 
+calaca 
+calatagan 
+cuenca 
+ibaan 
+laurel 
+lemery 
+lian 
+lobo 
+mabini 
+malvar 
+mataas na kahoy 
+nasugbu 
+padre garcia 
+rosario 
+san jose 
+san juan 
+san luis 
+san nicolas 
+san pascual 
+santa teresita 
+santo tomas 
+taal 
+talisay 
+taysan 
+tingloy 
+tuy 
+baguio city
+atok 
+bakun 
+bokod 
+buguias 
+itogon 
+kabayan 
+kapangan 
+kibungan 
+la trinidad 
+mankayan 
+sablan 
+tuba 
+tublay 
+caloocan 
+las piñas 
+makati 
+malabon 
+mandaluyong 
+manila 
+marikina 
+muntinlupa 
+navotas 
+parañaque 
+pasay 
+pasig 
+quezon city 
+san juan 
+taguig 
+valenzuela
+isabela city 
+lamitan city
+akbar 
+al-barka 
+hadji mohammad aju 
+lantawan 
+maluso 
+sumisip 
+tipo-tipo 
+tuburan 
+ungkaya pukan 
+argao city
+bogo city 
+carcar city 
+cebu city
+cebu 
+danao city 
+lapu-lapu city 
+mandaue city 
+talisay city 
+toledo city 
+naga city
+alcantara 
+alcoy 
+alegria 
+aloguinsan 
+argao 
+asturias 
+badian 
+balamban 
+bantayan 
+barili 
+boljoon 
+borbon 
+carmen 
+catmon 
+compostela 
+consolacion 
+cordova 
+daanbantayan 
+dalaguete 
+dumanjug 
+ginatilan 
+liloan 
+madridejos 
+malabuyoc 
+medellin 
+minglanilla 
+moalboal 
+oslob 
+pilar 
+pinamungahan 
+poro 
+ronda 
+samboan 
+san fernando 
+san francisco 
+san remigio 
+santa fe 
+santander 
+sibonga 
+sogod 
+tabogon 
+tabuelan 
+tuburan 
+tudela 
+island garden city of samal 
+panabo city 
+tagum city
+asuncion 
+braulio e. dujali 
+carmen 
+kapalong 
+new corella 
+san isidro 
+santo tomas 
+talaingod 
+davao city 
+digos city
+bansalan 
+don marcelino 
+hagonoy 
+jose abad santos 
+kiblawan 
+magsaysay 
+malalag 
+malita 
+matanao 
+padada 
+santa cruz 
+santa maria 
+sarangani 
+sulop 
+mati city
+baganga 
+banaybanay 
+boston 
+caraga 
+cateel 
+governor generoso 
+lupon 
+manay 
+san isidro 
+tarragona 
+angeles city 
+city of san fernando 
+apalit 
+arayat 
+bacolor 
+candaba 
+floridablanca 
+guagua 
+lubao 
+mabalacat 
+macabebe 
+magalang 
+masantol 
+mexico 
+minalin 
+porac 
+san luis 
+san simon 
+santa ana 
+santa rita 
+santo tomas 
+sasmuan 
+bacolod city 
+bago city 
+cadiz city 
+escalante city 
+himamaylan city 
+kabankalan city 
+la carlota city 
+sagay city 
+san carlos city 
+silay city 
+sipalay city 
+talisay city 
+victorias city
+binalbagan 
+calatrava 
+candoni 
+cauayan 
+enrique b. magalona 
+hinigaran 
+hinoba-an 
+ilog 
+isabela 
+la castellana 
+manapla 
+moises padilla 
+murcia 
+pontevedra 
+pulupandan 
+salvador benedicto 
+san enrique 
+toboso 
+valladolid 
+bais 
+bayawan 
+canlaon 
+dumaguete 
+guihulngan 
+tanjay
+amlan 
+ayungon 
+bacong 
+basay 
+bindoy 
+dauin 
+jimalalud 
+la libertad 
+mabinay 
+manjuyod 
+pamplona 
+san jose 
+santa catalina 
+siaton 
+sibulan 
+tayasan 
+valencia 
+vallehermoso 
+zamboanguita 
+hadji panglima tahil 
+indanan 
+jolo 
+kalingalan caluang 
+lugus 
+luuk 
+maimbung 
+old panamao 
+omar 
+pandami 
+panglima estino 
+pangutaran 
+parang 
+pata 
+patikul 
+siasi 
+talipao 
+tapul
+tongkil
+cagayan de oro 
+gingoog city
+el salvador city
+alubijid
+balingasag 
+balingoan
+binuangan 
+claveria 
+el salvador 
+gitagum 
+initao 
+jasaan 
+kinoguitan 
+lagonglong 
+laguindingan 
+libertad 
+lugait 
+magsaysay 
+manticao 
+medina 
+naawan 
+opol 
+salay 
+sugbongcogon 
+tagoloan 
+talisayan 
+villanueva 
